@@ -10,7 +10,7 @@ function App() {
       <h1>GifFT</h1>
       <h2>Your gift as NFT</h2>
       <img src={gifFTLogo} alt="GifFT logo" />
-      <h1>Comming son</h1>
+      <h1>Comming soon</h1>
     </div>
   )
 }
